@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Calcculator" parallel="tests">
+<!--    <suite name="Calcculator" parallel="tests">-->
+<!--parallel="classes": to test many test in parallel(when run this test in many browsers(chrome, firefox,....))-->
+    <test name="Divion Test">
+        <classes>
+            <class name="ExampleTest"></class>
+            <class name="Example2Test"></class>
+        </classes>
+    </test>
+</suite> <!-- Suite -->
