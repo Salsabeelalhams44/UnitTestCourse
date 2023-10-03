@@ -10,7 +10,7 @@ public class Example2Test {
     @DataProvider(name = "MarkData")
     public Object[][] dpMethod() {
         return new Object[][]{
-                {95, "Invalid"},
+                {101, "Invalid"},
                 {100000000, "Invalid"},
                 {90, "Excellent"},
                 {91, "Excellent"},

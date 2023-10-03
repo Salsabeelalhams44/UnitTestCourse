@@ -4,44 +4,44 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.262">
+           time="0.205">
     <properties></properties>
 
 
 
             <testcase
                 name="testDivision"
-                time="0.097"
+                time="0.028"
                 classname="ExampleTest">
             </testcase>
             <testcase
                 name="testDivision"
-                time="0.120"
+                time="0.005"
                 classname="ExampleTest">
             </testcase>
             <testcase
                 name="testDivision"
-                time="0.003"
+                time="0.011"
                 classname="ExampleTest">
             </testcase>
             <testcase
-                name="testDivisionByZero"
+                name="testDivision"
+                time="0.099"
+                classname="ExampleTest">
+            </testcase>
+            <testcase
+                name="testDivision"
                 time="0.010"
                 classname="ExampleTest">
             </testcase>
             <testcase
                 name="testDivision"
-                time="0.001"
+                time="0.005"
                 classname="ExampleTest">
             </testcase>
             <testcase
-                name="testDivision"
-                time="0.001"
-                classname="ExampleTest">
-            </testcase>
-            <testcase
-                name="testDivision"
-                time="0.030"
+                name="testDivisionByZero"
+                time="0.047"
                 classname="ExampleTest">
             </testcase>
 </testsuite>

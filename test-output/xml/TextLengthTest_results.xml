@@ -4,39 +4,39 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.167">
+           time="0.536">
     <properties></properties>
 
 
 
             <testcase
                 name="testTextLength"
+                time="0.514"
+                classname="TextLengthTest">
+            </testcase>
+            <testcase
+                name="testTextLength"
+                time="0.003"
+                classname="TextLengthTest">
+            </testcase>
+            <testcase
+                name="testTextLength"
                 time="0.001"
                 classname="TextLengthTest">
             </testcase>
             <testcase
                 name="testTextLength"
-                time="0.065"
+                time="0.009"
                 classname="TextLengthTest">
             </testcase>
             <testcase
                 name="testTextLength"
-                time="0.001"
+                time="0.007"
                 classname="TextLengthTest">
             </testcase>
             <testcase
                 name="testTextLength"
                 time="0.002"
-                classname="TextLengthTest">
-            </testcase>
-            <testcase
-                name="testTextLength"
-                time="0.004"
-                classname="TextLengthTest">
-            </testcase>
-            <testcase
-                name="testTextLength"
-                time="0.094"
                 classname="TextLengthTest">
             </testcase>
 </testsuite>
