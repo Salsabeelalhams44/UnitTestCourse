@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Annotation Test"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.070">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testDivision1"
+                time="0.006"
+                classname="Example3Test">
+            </testcase>
+            <testcase
+                name="testDivision2"
+                time="0.016"
+                classname="Example3Test">
+            </testcase>
+            <testcase
+                name="testDivision3"
+                time="0.016"
+                classname="Example3Test">
+            </testcase>
+            <testcase
+                name="testDivision5"
+                time="0.030"
+                classname="Example3Test">
+            </testcase>
+            <testcase
+                name="testDivision4"
+                time="0.002"
+                classname="Example3Test">
+            </testcase>
+</testsuite>

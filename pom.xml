@@ -16,6 +16,30 @@
         <version>7.7.1</version>
         <scope>test</scope>
     </dependency>
+
+        <dependency>
+                        <groupId>org.testng</groupId>
+                        <artifactId>reportng</artifactId>
+                        <version>1.2.2</version>
+                        <scope>test</scope>
+        </dependency>
+
+            <!-- https://mvnrepository.com/artifact/org.uncommons/reportng -->
+<!--            <dependency>-->
+<!--                <groupId>org.uncommons</groupId>-->
+<!--                <artifactId>reportng</artifactId>-->
+<!--                <version>1.1.4</version>-->
+<!--                <scope>test</scope>-->
+<!--            </dependency>-->
+<!--        &lt;!&ndash; https://mvnrepository.com/artifact/com.google.inject/guice &ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>com.google.inject</groupId>-->
+<!--            <artifactId>guice</artifactId>-->
+<!--            <version>7.0.0</version>-->
+<!--        </dependency>-->
+
+
+
     </dependencies>
     <properties>
         <maven.compiler.source>20</maven.compiler.source>

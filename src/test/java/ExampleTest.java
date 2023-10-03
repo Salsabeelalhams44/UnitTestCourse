@@ -29,7 +29,7 @@ public class ExampleTest {
         Assert.assertEquals(calculator.division(x,y),expected);
     }
     //when need to test if the code make exception
-    @Test(dataProvider = "Valid Division Data", expectedExceptions = ArithmeticException.class)
+    @Test(dataProvider = "InValid Division Data", expectedExceptions = ArithmeticException.class)
     public void testDivisionByZero(float x,float y){
         calculator.division(x,y);
     }

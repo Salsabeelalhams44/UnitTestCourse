@@ -3,10 +3,35 @@
 <suite name="Calcculator" parallel="tests">
 <!--    <suite name="Calcculator" parallel="tests">-->
 <!--parallel="classes": to test many test in parallel(when run this test in many browsers(chrome, firefox,....))-->
-    <test name="Divion Test">
+    <test name="Division Test">
         <classes>
             <class name="ExampleTest"></class>
+        </classes>
+    </test>
+    <test name="Grade Test">
+        <classes>
             <class name="Example2Test"></class>
         </classes>
     </test>
+    <test name="Annotation Test">
+        <classes>
+            <class name="Example3Test"></class>
+        </classes>
+    </test>
+    <test name="Factorial Test">
+        <classes>
+           <class name="FacturialTest"></class>
+        </classes>
+    </test>
+    <test name="Text length Test">
+        <classes>
+           <class name="TextLengthTest"></class>
+        </classes>
+    </test>
+
+<!-- To generate report-->
+<!--    <listeners>-->
+<!--        <listener class-name="org.uncommons.reportng.HTMLReporter"></listener>-->
+<!--    </listeners>-->
+    
 </suite> <!-- Suite -->
